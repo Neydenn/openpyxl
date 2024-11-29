@@ -90,7 +90,7 @@ for i in range(1, 18279):
     _COL_STRING_CACHE[col] = i
 
 
-def get_column_letter(idx,):
+def get_column_letter(idx):
     """Convert a column index into a column letter
     (3 -> 'C')
     """
